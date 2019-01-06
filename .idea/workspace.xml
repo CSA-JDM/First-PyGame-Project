@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18d93051-35a2-4576-8f19-ddc31b77382b" name="Default Changelist" comment="" />
+    <list default="true" id="18d93051-35a2-4576-8f19-ddc31b77382b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First-OpenGL-Project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_info.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Jacob.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Jacob.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First-PyGame-Project.py" beforeDir="false" afterPath="$PROJECT_DIR$/First-PyGame-Project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,12 +17,233 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/First-PyGame-Project.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="523">
+              <caret line="250" column="96" selection-start-line="250" selection-start-column="96" selection-end-line="250" selection-end-column="96" />
+              <folding>
+                <element signature="n#!!doc" />
+                <element signature="e#70#815#1" />
+                <element signature="e#1304#1439#0" />
+                <element signature="e#1812#2057#0" />
+                <element signature="e#1876#1991#0" />
+                <element signature="e#2171#2211#0" />
+                <element signature="e#2289#2716#0" />
+                <element signature="e#2375#2716#0" />
+                <element signature="e#2430#2716#0" />
+                <element signature="e#2796#3409#0" />
+                <element signature="e#2875#3043#0" />
+                <element signature="e#2927#3043#0" />
+                <element signature="e#2982#3043#0" />
+                <element signature="e#3150#3409#0" />
+                <element signature="e#3206#3409#0" />
+                <element signature="e#3569#6911#0" />
+                <element signature="e#3616#6911#0" />
+                <element signature="e#3737#4368#0" />
+                <element signature="e#3737#4307#0" />
+                <element signature="e#4028#4271#0" />
+                <element signature="e#4516#6911#0" />
+                <element signature="e#4533#4672#0" />
+                <element signature="e#4724#4881#0" />
+                <element signature="e#4934#5175#0" />
+                <element signature="e#5223#5561#0" />
+                <element signature="e#5613#5845#0" />
+                <element signature="e#5936#6779#0" />
+                <element signature="e#6057#6775#0" />
+                <element signature="e#6417#6730#0" />
+                <element signature="e#6609#6728#0" />
+                <element signature="e#7018#10369#0" />
+                <element signature="e#7065#10369#0" />
+                <element signature="e#7186#7817#0" />
+                <element signature="e#7186#7756#0" />
+                <element signature="e#7477#7720#0" />
+                <element signature="e#7965#10369#0" />
+                <element signature="e#7982#8121#0" />
+                <element signature="e#8174#8332#0" />
+                <element signature="e#8386#8631#0" />
+                <element signature="e#8679#9017#0" />
+                <element signature="e#9069#9301#0" />
+                <element signature="e#9392#10237#0" />
+                <element signature="e#9515#10233#0" />
+                <element signature="e#9875#10188#0" />
+                <element signature="e#10067#10186#0" />
+                <element signature="e#10480#10743#0" />
+                <element signature="e#10563#10743#0" />
+                <element signature="e#10619#10743#0" />
+                <element signature="e#10678#10743#0" />
+                <element signature="e#10850#10935#0" />
+                <element signature="e#11011#11165#0" />
+                <element signature="e#11090#11165#0" />
+                <element signature="e#11357#11645#0" />
+                <element signature="e#11432#11645#0" />
+                <element signature="e#11480#11645#0" />
+                <element signature="e#36860#38154#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/First-OpenGL-Project.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="609" column="66" selection-start-line="609" selection-start-column="66" selection-end-line="609" selection-end-column="66" />
+              <folding>
+                <element signature="n#!!doc" />
+                <element signature="e#70#815#1" />
+                <element signature="e#971#34596#0" />
+                <element signature="e#999#14893#0" />
+                <element signature="e#1413#1517#0" />
+                <element signature="e#1828#14893#0" />
+                <element signature="e#2031#2146#0" />
+                <element signature="e#2164#2266#0" />
+                <element signature="e#2329#11224#0" />
+                <element signature="e#2379#2419#0" />
+                <element signature="e#2499#3305#0" />
+                <element signature="e#2588#2671#0" />
+                <element signature="e#2771#2939#0" />
+                <element signature="e#2823#2939#0" />
+                <element signature="e#2878#2939#0" />
+                <element signature="e#3046#3305#0" />
+                <element signature="e#3102#3305#0" />
+                <element signature="e#3377#10994#0" />
+                <element signature="e#3465#6807#0" />
+                <element signature="e#3512#6807#0" />
+                <element signature="e#3633#4264#0" />
+                <element signature="e#3633#4203#0" />
+                <element signature="e#3924#4167#0" />
+                <element signature="e#4412#6807#0" />
+                <element signature="e#4429#4568#0" />
+                <element signature="e#4620#4777#0" />
+                <element signature="e#4830#5071#0" />
+                <element signature="e#5119#5457#0" />
+                <element signature="e#5509#5741#0" />
+                <element signature="e#5832#6675#0" />
+                <element signature="e#5953#6671#0" />
+                <element signature="e#6313#6626#0" />
+                <element signature="e#6505#6624#0" />
+                <element signature="e#6914#10265#0" />
+                <element signature="e#6961#10265#0" />
+                <element signature="e#7082#7713#0" />
+                <element signature="e#7082#7652#0" />
+                <element signature="e#7373#7616#0" />
+                <element signature="e#7861#10265#0" />
+                <element signature="e#7878#8017#0" />
+                <element signature="e#8070#8228#0" />
+                <element signature="e#8282#8527#0" />
+                <element signature="e#8575#8913#0" />
+                <element signature="e#8965#9197#0" />
+                <element signature="e#9288#10133#0" />
+                <element signature="e#9411#10129#0" />
+                <element signature="e#9771#10084#0" />
+                <element signature="e#9963#10082#0" />
+                <element signature="e#10376#10639#0" />
+                <element signature="e#10459#10639#0" />
+                <element signature="e#10515#10639#0" />
+                <element signature="e#10574#10639#0" />
+                <element signature="e#10719#10802#0" />
+                <element signature="e#10909#10994#0" />
+                <element signature="e#11070#11224#0" />
+                <element signature="e#11149#11224#0" />
+                <element signature="e#11287#11697#0" />
+                <element signature="e#11754#12022#0" />
+                <element signature="e#12216#12504#0" />
+                <element signature="e#12291#12504#0" />
+                <element signature="e#12339#12504#0" />
+                <element signature="e#12979#14168#0" />
+                <element signature="e#13064#13538#0" />
+                <element signature="e#14687#14827#0" />
+                <element signature="e#14757#14827#0" />
+                <element signature="e#14928#17012#0" />
+                <element signature="e#17053#22392#0" />
+                <element signature="e#17070#17593#0" />
+                <element signature="e#17288#17593#0" />
+                <element signature="e#18745#19105#0" />
+                <element signature="e#19617#19764#0" />
+                <element signature="e#21125#21701#0" />
+                <element signature="e#21222#21701#0" />
+                <element signature="e#22431#24818#0" />
+                <element signature="e#24033#24231#0" />
+                <element signature="e#24464#24662#0" />
+                <element signature="e#24853#24857#0" />
+                <element signature="e#24895#24899#0" />
+                <element signature="e#24938#26044#0" />
+                <element signature="e#25284#25612#0" />
+                <element signature="e#26085#28203#0" />
+                <element signature="e#26140#26706#0" />
+                <element signature="e#26340#26692#0" />
+                <element signature="e#26733#27501#0" />
+                <element signature="e#26788#27501#0" />
+                <element signature="e#27072#27436#0" />
+                <element signature="e#27565#27775#0" />
+                <element signature="e#27802#28203#0" />
+                <element signature="e#27856#28203#0" />
+                <element signature="e#28259#30336#0" />
+                <element signature="e#28442#29024#0" />
+                <element signature="e#28713#29024#0" />
+                <element signature="e#29048#29195#0" />
+                <element signature="e#29493#30287#0" />
+                <element signature="e#29976#30287#0" />
+                <element signature="e#30388#31049#0" />
+                <element signature="e#30470#30615#0" />
+                <element signature="e#30629#30954#0" />
+                <element signature="e#30705#30954#0" />
+                <element signature="e#31141#33032#0" />
+                <element signature="e#31263#31343#0" />
+                <element signature="e#31413#31570#0" />
+                <element signature="e#31472#31570#0" />
+                <element signature="e#32299#32967#0" />
+                <element signature="e#32383#32557#0" />
+                <element signature="e#32575#32773#0" />
+                <element signature="e#33084#33578#0" />
+                <element signature="e#33175#33353#0" />
+                <element signature="e#33247#33353#0" />
+                <element signature="e#33380#33578#0" />
+                <element signature="e#33452#33578#0" />
+                <element signature="e#33646#34265#0" />
+                <element signature="e#34338#34596#0" />
+                <element signature="e#34391#34470#0" />
+                <element signature="e#34497#34596#0" />
+                <element signature="e#34621#39326#0" />
+                <element signature="e#34807#35309#0" />
+                <element signature="e#35341#37657#0" />
+                <element signature="e#35845#36599#0" />
+                <element signature="e#36771#37657#0" />
+                <element signature="e#37504#37657#0" />
+                <element signature="e#37705#39326#0" />
+                <element signature="e#37801#39326#0" />
+                <element signature="e#37890#39139#0" />
+                <element signature="e#38044#39035#0" />
+                <element signature="e#38275#38378#0" />
+                <element signature="e#38493#38769#0" />
+                <element signature="e#38820#39000#0" />
+                <element signature="e#39357#39421#0" />
+                <element signature="e#39395#39421#0" />
+                <element signature="e#39454#40041#0" />
+                <element signature="e#39535#39720#0" />
+                <element signature="e#39768#39917#0" />
+                <element signature="e#39809#39917#0" />
+                <element signature="e#39953#40041#0" />
+                <element signature="e#40077#42273#0" />
+                <element signature="e#40133#40579#0" />
+                <element signature="e#40289#40546#0" />
+                <element signature="e#40611#41323#0" />
+                <element signature="e#40669#41273#0" />
+                <element signature="e#40715#41129#0" />
+                <element signature="e#41367#42273#0" />
+                <element signature="e#41400#42273#0" />
+                <element signature="e#41517#42184#0" />
+                <element signature="e#41574#41793#0" />
+                <element signature="e#41862#42088#0" />
+                <element signature="e#42292#42865#0" />
+                <element signature="e#42337#42673#0" />
+                <element signature="e#42705#42865#0" />
+                <element signature="e#42773#42846#0" />
+                <element signature="e#42899#43104#0" />
+                <element signature="e#42912#43029#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -23,8 +252,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="51">
-                <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <first_editor relative-caret-position="17">
+                <caret line="1" selection-start-line="1" selection-end-line="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -40,26 +269,73 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>constant</find>
+      <find>.append(</find>
+      <find>button_motion</find>
+      <find>.focus</find>
+      <find>motion_command</find>
+      <find>class_info_dict</find>
+      <find>self.system_varaibles[&quot;class_info_dict&quot;]</find>
+      <find>f&quot;{given_object}&quot;</find>
+      <find>class_update</find>
+      <find>object_heights</find>
+      <find>separate_text</find>
+      <find>return</find>
+      <find>text_update</find>
+      <find>sys.</find>
+      <find>Overlay</find>
+      <find>gl</find>
+      <find>255</find>
+      <find>255,</find>
+      <find>Exit</find>
+      <find>.text_update(</find>
+      <find>MenuObject</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>[&quot;&quot;]</replace>
+      <replace>button_menu</replace>
+      <replace>.focus_state</replace>
+      <replace>focus_command</replace>
+      <replace>self.system_variables[&quot;class_info_dict&quot;]</replace>
+      <replace>self.class_update,</replace>
+      <replace>given_object</replace>
+      <replace>class_focus</replace>
+      <replace>object_ys</replace>
+      <replace>self.formatted_text</replace>
+      <replace>glu</replace>
+      <replace>ScreenObject</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/stat_info.txt" />
+        <option value="$PROJECT_DIR$/class_info.txt" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.841/worm2d.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.003/text.py" />
+        <option value="$PROJECT_DIR$/First-OpenGL-Project.py" />
         <option value="$PROJECT_DIR$/First-PyGame-Project.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="75" />
-    <option name="y" value="-9" />
-    <option name="width" value="1600" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="97" />
+    <option name="y" value="-8" />
+    <option name="width" value="1078" />
+    <option name="height" value="606" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -67,14 +343,27 @@
               <item name="First-PyGame-Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="First-PyGame-Project" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="First-PyGame-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="First-PyGame-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/Super-Mario-64-Python/Super_Mario_64_Python.py" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jacob\PycharmProjects\First-PyGame-Project" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -88,7 +377,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.First-PyGame-Project">
+    <configuration name="First-OpenGL-Project" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="First-PyGame-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/First-OpenGL-Project.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="First-PyGame-Project" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="First-PyGame-Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,9 +420,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Super_Mario_64_Python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="First-PyGame-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/GitHub/Super-Mario-64-Python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/GitHub/Super-Mario-64-Python/Super_Mario_64_Python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="First-PyGame-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.003" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.003/text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="worm2d" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="First-PyGame-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.841" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.841/worm2d.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.First-PyGame-Project" />
+        <item itemvalue="Python.First-OpenGL-Project" />
+        <item itemvalue="Python.text" />
+        <item itemvalue="Python.worm2d" />
+        <item itemvalue="Python.Super_Mario_64_Python" />
       </list>
     </recent_temporary>
   </component>
@@ -130,38 +507,48 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
+    <frame x="0" y="0" width="1600" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32919255" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
+      <window_info anchor="bottom" x="0" y="310" width="1600" height="279" id="Run" maximized="true" order="2" weight="0.3282353" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3282353" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25125" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" x="0" y="310" width="1600" height="279" id="Run" maximized="true" order="2" weight="0.3282353" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3282353" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Final-Review/Final-Review.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -169,12 +556,604 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/First-PyGame-Project.py">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pygame/compat.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pygame/constants.cp37-win_amd64.pyd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pygame/gp2x/constants.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pygame/locals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="305">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pygame-1.9.4.dist-info/WHEEL">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-2070097174/pygame/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-2070097174/pygame/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2186" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-2070097174/pygame/event.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2196">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pygame/ftfont.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../False_Insignia/False_Insignia.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/False-Insignia/False-Insignia.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-2070097174/pygame/key.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat_info.txt" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/pyparsing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="561" column="8" selection-start-line="561" selection-start-column="8" selection-end-line="561" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/Super-Mario-64-Python/Super_Mario_64_Python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="397" column="17" selection-start-line="397" selection-start-column="17" selection-end-line="397" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#54#98#1" />
+            <element signature="e#249#380#0" />
+            <element signature="e#394#691#0" />
+            <element signature="e#707#797#0" />
+            <element signature="e#843#7083#0" />
+            <element signature="e#923#1093#0" />
+            <element signature="e#1648#1781#0" />
+            <element signature="e#1807#3439#0" />
+            <element signature="e#1824#2244#0" />
+            <element signature="e#2036#2226#0" />
+            <element signature="e#2037#2225#0" />
+            <element signature="e#2261#3429#0" />
+            <element signature="e#2372#2540#0" />
+            <element signature="e#2693#3413#0" />
+            <element signature="e#2723#3133#0" />
+            <element signature="e#2800#3030#0" />
+            <element signature="e#3163#3387#0" />
+            <element signature="e#3552#3724#0" />
+            <element signature="e#3875#6869#0" />
+            <element signature="e#4023#6154#0" />
+            <element signature="e#4402#4532#0" />
+            <element signature="e#4568#4705#0" />
+            <element signature="e#5143#5475#0" />
+            <element signature="e#5198#5475#0" />
+            <element signature="e#5259#5351#0" />
+            <element signature="e#6462#6810#0" />
+            <element signature="e#6518#6597#0" />
+            <element signature="e#6640#6719#0" />
+            <element signature="e#6939#7082#0" />
+            <element signature="e#7137#8182#0" />
+            <element signature="e#7177#7356#0" />
+            <element signature="e#7385#8182#0" />
+            <element signature="e#8217#8221#0" />
+            <element signature="e#8258#9488#0" />
+            <element signature="e#8316#9488#0" />
+            <element signature="e#8543#8697#0" />
+            <element signature="e#8861#8977#0" />
+            <element signature="e#9526#11099#0" />
+            <element signature="e#9526#9645#0" />
+            <element signature="e#9887#10200#0" />
+            <element signature="e#10387#10700#0" />
+            <element signature="e#10739#11099#0" />
+            <element signature="e#11134#11889#0" />
+            <element signature="e#11134#11253#0" />
+            <element signature="e#11351#11889#0" />
+            <element signature="e#11948#12362#0" />
+            <element signature="e#12117#12362#0" />
+            <element signature="e#12409#13365#0" />
+            <element signature="e#12981#13365#0" />
+            <element signature="e#13403#14716#0" />
+            <element signature="e#13605#14197#0" />
+            <element signature="e#13722#14173#0" />
+            <element signature="e#14206#14228#0" />
+            <element signature="e#14789#15126#0" />
+            <element signature="e#14860#15126#0" />
+            <element signature="e#14908#15126#0" />
+            <element signature="e#15170#15611#0" />
+            <element signature="e#15241#15611#0" />
+            <element signature="e#15289#15380#0" />
+            <element signature="e#15446#15611#0" />
+            <element signature="e#15646#16487#0" />
+            <element signature="e#15690#15912#0" />
+            <element signature="e#15745#15842#0" />
+            <element signature="e#16038#16376#0" />
+            <element signature="e#16093#16306#0" />
+            <element signature="e#18008#18907#0" />
+            <element signature="e#18027#18151#0" />
+            <element signature="e#18187#18311#0" />
+            <element signature="e#18369#18907#0" />
+            <element signature="e#18440#18573#0" />
+            <element signature="e#19004#20209#0" />
+            <element signature="e#19280#19414#0" />
+            <element signature="e#19449#19583#0" />
+            <element signature="e#19614#19737#0" />
+            <element signature="e#19809#20209#0" />
+            <element signature="e#20244#21127#0" />
+            <element signature="e#20262#20385#0" />
+            <element signature="e#20420#20543#0" />
+            <element signature="e#20600#21127#0" />
+            <element signature="e#20653#20802#0" />
+            <element signature="e#20669#20799#0" />
+            <element signature="e#21173#21642#0" />
+            <element signature="e#21212#21642#0" />
+            <element signature="e#21341#21642#0" />
+            <element signature="e#21669#22462#0" />
+            <element signature="e#21844#22117#0" />
+            <element signature="e#22169#22201#0" />
+            <element signature="e#22233#22462#0" />
+            <element signature="e#22498#23478#0" />
+            <element signature="e#22779#23189#0" />
+            <element signature="e#23038#23189#0" />
+            <element signature="e#23221#23478#0" />
+            <element signature="e#23513#25366#0" />
+            <element signature="e#23814#24331#0" />
+            <element signature="e#24034#24180#0" />
+            <element signature="e#24363#25366#0" />
+            <element signature="e#24395#25303#0" />
+            <element signature="e#24436#25046#0" />
+            <element signature="e#24483#24606#0" />
+            <element signature="e#24836#25046#0" />
+            <element signature="e#25106#25303#0" />
+            <element signature="e#25404#27915#0" />
+            <element signature="e#25675#26061#0" />
+            <element signature="e#25997#26061#0" />
+            <element signature="e#26122#26762#0" />
+            <element signature="e#26229#26382#0" />
+            <element signature="e#26437#26594#0" />
+            <element signature="e#26794#27915#0" />
+            <element signature="e#26823#27890#0" />
+            <element signature="e#26861#27890#0" />
+            <element signature="e#26926#27418#0" />
+            <element signature="e#27203#27282#0" />
+            <element signature="e#27502#27670#0" />
+            <element signature="e#27731#27890#0" />
+            <element signature="e#27954#31505#0" />
+            <element signature="e#28053#28475#0" />
+            <element signature="e#28531#28629#0" />
+            <element signature="e#28661#31505#0" />
+            <element signature="e#28846#31505#0" />
+            <element signature="e#28895#29321#0" />
+            <element signature="e#29497#31130#0" />
+            <element signature="e#29624#30815#0" />
+            <element signature="e#29910#30815#0" />
+            <element signature="e#30196#30412#0" />
+            <element signature="e#30866#31130#0" />
+            <element signature="e#31265#31505#0" />
+            <element signature="e#31290#31456#0" />
+            <element signature="e#31542#31708#0" />
+            <element signature="e#31594#31672#0" />
+            <element signature="e#31704#31708#0" />
+            <element signature="e#31729#33298#0" />
+            <element signature="e#31801#31915#0" />
+            <element signature="e#31954#32119#0" />
+            <element signature="e#32003#32119#0" />
+            <element signature="e#32160#33298#0" />
+            <element signature="e#32280#32325#0" />
+            <element signature="e#32366#32411#0" />
+            <element signature="e#32456#32510#0" />
+            <element signature="e#32555#32762#0" />
+            <element signature="e#32664#32762#0" />
+            <element signature="e#32803#32848#0" />
+            <element signature="e#32889#32934#0" />
+            <element signature="e#33000#33053#0" />
+            <element signature="e#33245#33298#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="192" selection-start-line="6" selection-start-column="192" selection-end-line="6" selection-end-column="192" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/progress/bar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-2070097174/pygame/display.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="163" column="4" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-2070097174/pygame/draw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="65" column="4" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.569/worm2d.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.782/worm2d.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.841/worm2d.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.564/run_game.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.769/main.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.386/hud.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.003/text.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.516/text.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.421/settings.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/OpenGL/raw/GL/VERSION/GL_1_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/OpenGL/GL/VERSION/GL_1_0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="77" column="28" lean-forward="true" selection-start-line="77" selection-start-column="28" selection-end-line="77" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/OpenGL/raw/GLUT/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="989" selection-start-line="989" selection-end-line="989" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pygame/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="335" column="21" lean-forward="true" selection-start-line="335" selection-start-column="21" selection-end-line="335" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-2070097174/pygame/overlay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/OpenGL/raw/GLU/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="272" selection-start-line="272" selection-end-line="272" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="2816" column="4" selection-start-line="2816" selection-start-column="4" selection-end-line="2816" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-2070097174/pygame/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-2070097174/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-2070097174/pygame/surface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="89" column="8" selection-start-line="89" selection-start-column="8" selection-end-line="89" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pygame/sprite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3740">
+          <caret line="223" column="58" lean-forward="true" selection-start-line="223" selection-start-column="58" selection-end-line="223" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-2070097174/pygame/rect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-2070097174/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="538" column="4" selection-start-line="538" selection-start-column="4" selection-end-line="538" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First-PyGame-Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="250" column="96" selection-start-line="250" selection-start-column="96" selection-end-line="250" selection-end-column="96" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#70#815#1" />
+            <element signature="e#1304#1439#0" />
+            <element signature="e#1812#2057#0" />
+            <element signature="e#1876#1991#0" />
+            <element signature="e#2171#2211#0" />
+            <element signature="e#2289#2716#0" />
+            <element signature="e#2375#2716#0" />
+            <element signature="e#2430#2716#0" />
+            <element signature="e#2796#3409#0" />
+            <element signature="e#2875#3043#0" />
+            <element signature="e#2927#3043#0" />
+            <element signature="e#2982#3043#0" />
+            <element signature="e#3150#3409#0" />
+            <element signature="e#3206#3409#0" />
+            <element signature="e#3569#6911#0" />
+            <element signature="e#3616#6911#0" />
+            <element signature="e#3737#4368#0" />
+            <element signature="e#3737#4307#0" />
+            <element signature="e#4028#4271#0" />
+            <element signature="e#4516#6911#0" />
+            <element signature="e#4533#4672#0" />
+            <element signature="e#4724#4881#0" />
+            <element signature="e#4934#5175#0" />
+            <element signature="e#5223#5561#0" />
+            <element signature="e#5613#5845#0" />
+            <element signature="e#5936#6779#0" />
+            <element signature="e#6057#6775#0" />
+            <element signature="e#6417#6730#0" />
+            <element signature="e#6609#6728#0" />
+            <element signature="e#7018#10369#0" />
+            <element signature="e#7065#10369#0" />
+            <element signature="e#7186#7817#0" />
+            <element signature="e#7186#7756#0" />
+            <element signature="e#7477#7720#0" />
+            <element signature="e#7965#10369#0" />
+            <element signature="e#7982#8121#0" />
+            <element signature="e#8174#8332#0" />
+            <element signature="e#8386#8631#0" />
+            <element signature="e#8679#9017#0" />
+            <element signature="e#9069#9301#0" />
+            <element signature="e#9392#10237#0" />
+            <element signature="e#9515#10233#0" />
+            <element signature="e#9875#10188#0" />
+            <element signature="e#10067#10186#0" />
+            <element signature="e#10480#10743#0" />
+            <element signature="e#10563#10743#0" />
+            <element signature="e#10619#10743#0" />
+            <element signature="e#10678#10743#0" />
+            <element signature="e#10850#10935#0" />
+            <element signature="e#11011#11165#0" />
+            <element signature="e#11090#11165#0" />
+            <element signature="e#11357#11645#0" />
+            <element signature="e#11432#11645#0" />
+            <element signature="e#11480#11645#0" />
+            <element signature="e#36860#38154#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First-OpenGL-Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="609" column="66" selection-start-line="609" selection-start-column="66" selection-end-line="609" selection-end-column="66" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#70#815#1" />
+            <element signature="e#971#34596#0" />
+            <element signature="e#999#14893#0" />
+            <element signature="e#1413#1517#0" />
+            <element signature="e#1828#14893#0" />
+            <element signature="e#2031#2146#0" />
+            <element signature="e#2164#2266#0" />
+            <element signature="e#2329#11224#0" />
+            <element signature="e#2379#2419#0" />
+            <element signature="e#2499#3305#0" />
+            <element signature="e#2588#2671#0" />
+            <element signature="e#2771#2939#0" />
+            <element signature="e#2823#2939#0" />
+            <element signature="e#2878#2939#0" />
+            <element signature="e#3046#3305#0" />
+            <element signature="e#3102#3305#0" />
+            <element signature="e#3377#10994#0" />
+            <element signature="e#3465#6807#0" />
+            <element signature="e#3512#6807#0" />
+            <element signature="e#3633#4264#0" />
+            <element signature="e#3633#4203#0" />
+            <element signature="e#3924#4167#0" />
+            <element signature="e#4412#6807#0" />
+            <element signature="e#4429#4568#0" />
+            <element signature="e#4620#4777#0" />
+            <element signature="e#4830#5071#0" />
+            <element signature="e#5119#5457#0" />
+            <element signature="e#5509#5741#0" />
+            <element signature="e#5832#6675#0" />
+            <element signature="e#5953#6671#0" />
+            <element signature="e#6313#6626#0" />
+            <element signature="e#6505#6624#0" />
+            <element signature="e#6914#10265#0" />
+            <element signature="e#6961#10265#0" />
+            <element signature="e#7082#7713#0" />
+            <element signature="e#7082#7652#0" />
+            <element signature="e#7373#7616#0" />
+            <element signature="e#7861#10265#0" />
+            <element signature="e#7878#8017#0" />
+            <element signature="e#8070#8228#0" />
+            <element signature="e#8282#8527#0" />
+            <element signature="e#8575#8913#0" />
+            <element signature="e#8965#9197#0" />
+            <element signature="e#9288#10133#0" />
+            <element signature="e#9411#10129#0" />
+            <element signature="e#9771#10084#0" />
+            <element signature="e#9963#10082#0" />
+            <element signature="e#10376#10639#0" />
+            <element signature="e#10459#10639#0" />
+            <element signature="e#10515#10639#0" />
+            <element signature="e#10574#10639#0" />
+            <element signature="e#10719#10802#0" />
+            <element signature="e#10909#10994#0" />
+            <element signature="e#11070#11224#0" />
+            <element signature="e#11149#11224#0" />
+            <element signature="e#11287#11697#0" />
+            <element signature="e#11754#12022#0" />
+            <element signature="e#12216#12504#0" />
+            <element signature="e#12291#12504#0" />
+            <element signature="e#12339#12504#0" />
+            <element signature="e#12979#14168#0" />
+            <element signature="e#13064#13538#0" />
+            <element signature="e#14687#14827#0" />
+            <element signature="e#14757#14827#0" />
+            <element signature="e#14928#17012#0" />
+            <element signature="e#17053#22392#0" />
+            <element signature="e#17070#17593#0" />
+            <element signature="e#17288#17593#0" />
+            <element signature="e#18745#19105#0" />
+            <element signature="e#19617#19764#0" />
+            <element signature="e#21125#21701#0" />
+            <element signature="e#21222#21701#0" />
+            <element signature="e#22431#24818#0" />
+            <element signature="e#24033#24231#0" />
+            <element signature="e#24464#24662#0" />
+            <element signature="e#24853#24857#0" />
+            <element signature="e#24895#24899#0" />
+            <element signature="e#24938#26044#0" />
+            <element signature="e#25284#25612#0" />
+            <element signature="e#26085#28203#0" />
+            <element signature="e#26140#26706#0" />
+            <element signature="e#26340#26692#0" />
+            <element signature="e#26733#27501#0" />
+            <element signature="e#26788#27501#0" />
+            <element signature="e#27072#27436#0" />
+            <element signature="e#27565#27775#0" />
+            <element signature="e#27802#28203#0" />
+            <element signature="e#27856#28203#0" />
+            <element signature="e#28259#30336#0" />
+            <element signature="e#28442#29024#0" />
+            <element signature="e#28713#29024#0" />
+            <element signature="e#29048#29195#0" />
+            <element signature="e#29493#30287#0" />
+            <element signature="e#29976#30287#0" />
+            <element signature="e#30388#31049#0" />
+            <element signature="e#30470#30615#0" />
+            <element signature="e#30629#30954#0" />
+            <element signature="e#30705#30954#0" />
+            <element signature="e#31141#33032#0" />
+            <element signature="e#31263#31343#0" />
+            <element signature="e#31413#31570#0" />
+            <element signature="e#31472#31570#0" />
+            <element signature="e#32299#32967#0" />
+            <element signature="e#32383#32557#0" />
+            <element signature="e#32575#32773#0" />
+            <element signature="e#33084#33578#0" />
+            <element signature="e#33175#33353#0" />
+            <element signature="e#33247#33353#0" />
+            <element signature="e#33380#33578#0" />
+            <element signature="e#33452#33578#0" />
+            <element signature="e#33646#34265#0" />
+            <element signature="e#34338#34596#0" />
+            <element signature="e#34391#34470#0" />
+            <element signature="e#34497#34596#0" />
+            <element signature="e#34621#39326#0" />
+            <element signature="e#34807#35309#0" />
+            <element signature="e#35341#37657#0" />
+            <element signature="e#35845#36599#0" />
+            <element signature="e#36771#37657#0" />
+            <element signature="e#37504#37657#0" />
+            <element signature="e#37705#39326#0" />
+            <element signature="e#37801#39326#0" />
+            <element signature="e#37890#39139#0" />
+            <element signature="e#38044#39035#0" />
+            <element signature="e#38275#38378#0" />
+            <element signature="e#38493#38769#0" />
+            <element signature="e#38820#39000#0" />
+            <element signature="e#39357#39421#0" />
+            <element signature="e#39395#39421#0" />
+            <element signature="e#39454#40041#0" />
+            <element signature="e#39535#39720#0" />
+            <element signature="e#39768#39917#0" />
+            <element signature="e#39809#39917#0" />
+            <element signature="e#39953#40041#0" />
+            <element signature="e#40077#42273#0" />
+            <element signature="e#40133#40579#0" />
+            <element signature="e#40289#40546#0" />
+            <element signature="e#40611#41323#0" />
+            <element signature="e#40669#41273#0" />
+            <element signature="e#40715#41129#0" />
+            <element signature="e#41367#42273#0" />
+            <element signature="e#41400#42273#0" />
+            <element signature="e#41517#42184#0" />
+            <element signature="e#41574#41793#0" />
+            <element signature="e#41862#42088#0" />
+            <element signature="e#42292#42865#0" />
+            <element signature="e#42337#42673#0" />
+            <element signature="e#42705#42865#0" />
+            <element signature="e#42773#42846#0" />
+            <element signature="e#42899#43104#0" />
+            <element signature="e#42912#43029#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
